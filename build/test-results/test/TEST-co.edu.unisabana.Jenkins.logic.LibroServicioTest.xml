@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.edu.unisabana.Jenkins.logic.LibroServicioTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-21T23:30:21" hostname="LAPTOP-R9DSJGVI" time="0.031">
+  <properties/>
+  <testcase name="Given_books_ok_When_getBooks_Then_return_list()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.002"/>
+  <testcase name="Given_book_ok_When_addBook_Then_succes()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.001"/>
+  <testcase name="Given_list_empty_When_getMaximo_Then_return_size()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.002"/>
+  <testcase name="Given_Book_name_ok_When_getBook_then_return_book()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.001"/>
+  <testcase name="Given_Book_name_wrong_When_getBook_then_return_empty()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.001"/>
+  <testcase name="Given_list_not_empty_When_getMaximo_Then_return_size()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.001"/>
+  <testcase name="Given_no_books_ok_When_getBooks_Then_return_empty()" classname="co.edu.unisabana.Jenkins.logic.LibroServicioTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

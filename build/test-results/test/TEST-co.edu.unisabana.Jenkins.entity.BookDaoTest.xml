@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.edu.unisabana.Jenkins.entity.BookDaoTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-10-21T23:30:21" hostname="LAPTOP-R9DSJGVI" time="0.028">
+  <properties/>
+  <testcase name="Given_quantity_ok_When_quantityCheck_Then_return_true()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.002"/>
+  <testcase name="Given_book_ok_When_registerBook_Then_success()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.002"/>
+  <testcase name="Given_quantity_wrong_When_quantityCheck_Then_return_true()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.001"/>
+  <testcase name="Given_author_ok_When_search_then_succes()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.002"/>
+  <testcase name="Given_bookName_ok_When_validateExistsBook_Then_return_true()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.003"/>
+  <testcase name="Given_Name_not_equeals_bookName_When_addBook_Then_return_exception()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.005"/>
+  <testcase name="Given_Name_equeals_bookName_When_addBook_Then_return_true()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.001"/>
+  <testcase name="Given_author_wrong_When_search_then_failed()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.0"/>
+  <testcase name="Given_bookName_wrong_When_validateExistsBook_Then_return_flase()" classname="co.edu.unisabana.Jenkins.entity.BookDaoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
